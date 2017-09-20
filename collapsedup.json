@@ -1,0 +1,16 @@
+{
+	"file": "https://raw.githubusercontent.com/MBTSL/UpSet/master/collapsedup.csv",
+	"name": "CollapsedUp",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 1, "name": "Gene" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 12 }
+	],
+    "author": "MB",
+    "description": "Testing UpSet with first round",
+    "source": "Round 1 only"
+}
