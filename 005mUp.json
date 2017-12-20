@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/MBTSL/UpSet/CleanedData/090down.csv",
+	"file": "https://raw.githubusercontent.com/MBTSL/UpSet/CleanedData/005up.csv",
 	"name": "FullUp",
 	"header": 0,
 	"separator": ",",
@@ -11,6 +11,6 @@
 		{ "format": "binary", "start": 2, "end": 9 }
 	],
     "author": "MB",
-    "description": "90 min Downregulated",
+    "description": "5 min Upregulated",
     "source": "All 4 Rounds, cleaned data"
 }
